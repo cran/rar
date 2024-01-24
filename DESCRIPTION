@@ -1,6 +1,6 @@
 Package: rar
 Title: Risk-Adjusted Regression
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person("Johann", "Gaebler", , "me@jgaeb.com", role = c("aut", "cre", "cph"),
         comment = c(ORCID = "0000-0003-3340-9542"))
@@ -18,9 +18,9 @@ Config/testthat/edition: 3
 Imports: dplyr, glue, magrittr, purrr, rlang, tibble, tidyr,
         tidyselect, vctrs
 NeedsCompilation: yes
-Packaged: 2024-01-18 11:41:58 UTC; jgaeb
+Packaged: 2024-01-23 19:03:16 UTC; jgaeb
 Author: Johann Gaebler [aut, cre, cph]
     (<https://orcid.org/0000-0003-3340-9542>)
 Maintainer: Johann Gaebler <me@jgaeb.com>
 Repository: CRAN
-Date/Publication: 2024-01-18 20:20:02 UTC
+Date/Publication: 2024-01-24 17:30:05 UTC

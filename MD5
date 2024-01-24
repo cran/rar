@@ -1,7 +1,7 @@
-e73b717cdb3599fe75c0bc082c532c3e *DESCRIPTION
+ab5b832a312f6c263a087f3486aef01c *DESCRIPTION
 173a789b6dc2b68c4b957789e70328ee *LICENSE
 4a48f2aaae2f9ce1ef8c5ff89287eadd *NAMESPACE
-8ce77c1399466deb58c6348e6674ee81 *NEWS.md
+e4a92bac60f6b6ab04c0dd8d189b3b7e *NEWS.md
 f507fde4f14af1275cf585898313fc38 *R/catch-routine-registration.R
 9166b944e0c629e4ebf877e942bba1b6 *R/cpp11.R
 ffe65af21ba8fa091491fa1bdda5bcad *R/rar-package.R
@@ -10,7 +10,7 @@ d816bafc3cc224432cee42a4cd585cf8 *R/sens.R
 e71c2e15a337dfecd433c80e785a54af *inst/CITATION
 1f0c7f5344023a9983f3a4b89161a772 *man/figures/logo.png
 462f02688d83afbd9018b5a6cf5bc403 *man/sens.Rd
-11928e2c0ce139998c9f0377501c11d2 *src/cpp11.cpp
+46c13196f954b5458cbf397401dc2f9e *src/cpp11.cpp
 8ef7977a6b19ea97de408835ce6a9820 *src/distpt.cpp
 390b2cc9ad6f6a0422a2815defa93d05 *src/distpt.h
 d71963b059ee797af9d93df93d71f9ed *src/iter.cpp
@@ -32,4 +32,4 @@ c2cb0c30e10da611f9fbe56aea52f7a9 *src/test-runner.cpp
 73f5229a46a631dd6d0296f9610d90a3 *src/test-sens.cpp
 419de320c22fea021ec9a027fce48ade *tests/testthat.R
 644b92c0807ae48710526d05da5d1660 *tests/testthat/test-cpp.R
-11f3d07997f9f8da613bb16f9c32c07b *tests/testthat/test-sens.R
+a80176be93e830172ca3ddfd89327d59 *tests/testthat/test-sens.R
